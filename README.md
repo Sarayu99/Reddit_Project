@@ -4,7 +4,9 @@ This repository contains the code for the Structural Competition and Aggressive 
 
 Files
 
-1. 'Node_Embeddings_For_Fifteen_Subreddits.ipynb' - Contains the code to create the networkX graph, and generate the node embeddings, and find the network similarity between the sender and reciver of comments from 15 subreddits.
+1. 'Node_Embeddings_For_Fifteen_Subreddits.ipynb' - Contains the code to create the networkX graph, and generate the node embeddings, and find the network similarity between the sender and receiver of comments from 15 subreddits.
+
+2. Word_Embeddings_For_Fifteen_Subreddits.ipynb' - Contains the code to generate the mean word embedding (using SBERT) of a given user on the platform, and then calculate the difference in mean word embedding between a sender and a receiver pair who interacted via a a comment on the platform.
 
 
 
