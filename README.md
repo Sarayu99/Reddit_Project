@@ -8,9 +8,7 @@ Files
 
 2. 'Word_Embeddings_For_Fifteen_Subreddits.ipynb' - Contains the code to generate the mean word embedding (using SBERT) of a given user on the platform, and then calculate the difference in mean word embedding between a sender and a receiver pair who interacted via a comment on the platform.
 
-3. 'Reading_Network_Similarity.ipynb' - reads the output file generated from 'Node_Embeddings_For_Fifteen_Subreddits.ipynb'
-
-4. 'Reading_Culture_Similarity.ipynb' - reads the output file generated from 'Word_Embeddings_For_Fifteen_Subreddits.ipynb'
+3. 'Reading_Network_Similarity.ipynb' - 
 
 
 
