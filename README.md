@@ -14,10 +14,13 @@ Files
 
 5. 'Comment_Level_Network_Cultural_Similarity.ipynb' - This python notebook maps each comment to a cosin similarity value between the node embedding of the sender and the receiver of the comment. The unique user pairs between these senders and receivers are in the output file 'data_fifteen_subreddits_method2c_node2vec' obtained from the 'Node_Embeddings_For_Fifteen_Subreddits.ipynb' notebook. 
 
-   _Output Files_: 'similarity_fifteen_subreddits.csv' (which contains all the comments of the 15 subreddits, only some of which have a network similarity and cultural similarity       measure)
-                   'data_fifteen_subreddits_similarity.csv' (which contains only the comments which have both a network similarity measure and a cultural similarity measure)
+   _Output Files_:
+   'similarity_fifteen_subreddits.csv' (which contains all the comments of the 15 subreddits, only some of which have a network similarity and cultural similarity       measure)
+   'data_fifteen_subreddits_similarity.csv' (which contains only the comments which have both a network similarity measure and a cultural similarity measure)
 
 
 Folders
 
 1. Network_Graphs - This folder contains the python notebooks which were used to experiment with 3 levels of aggregation (submission, subreddit, the whole reddit data) to generate the graphs on different sizes of reddit data.
+
+2. presentations - Contains power point presentations
