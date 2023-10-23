@@ -2,7 +2,7 @@
 
 This repository contains the code for the Structural Competition and Aggressive Behavior project. The files/folders in the repo are-
 
-Files
+**Files**
 
 1. 'Node_Embeddings_For_Fifteen_Subreddits.ipynb' - This python notebook contains the code to create the networkX graph, and generate the node embeddings, and find the network similarity between the sender and receiver of comments from 15 subreddits.
 
@@ -22,7 +22,7 @@ Files
    * 'data_fifteen_subreddits_similarity.csv' (which contains ONLY the comments that have both a network similarity measure and a cultural similarity measure)
 
 
-Folders
+**Folders**
 
 1. Network_Graphs - This folder contains the python notebooks which were used to experiment with 3 levels of aggregation (submission, subreddit, the whole reddit data) to generate the graphs on different sizes of reddit data.
 
