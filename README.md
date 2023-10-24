@@ -26,4 +26,3 @@ This repository contains the code for the Structural Competition and Aggressive 
 
 1. Network_Graphs - This folder contains the python notebooks which were used to experiment with 3 levels of aggregation (submission, subreddit, the whole reddit data) to generate the graphs on different sizes of reddit data.
 
-2. presentations - Contains power point presentations
