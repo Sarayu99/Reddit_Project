@@ -29,8 +29,11 @@ This repository contains the code for the Structural Competition and Aggressive 
 
      _Output_Files:
       * 'data_result_fifteen_subreddits_aggressive_language.csv' - Contains the threat, insult, and toxicity scores for each comment
+        
+5. 'Data_Summary.ipynb' - This notebook shows the data summary of the processed comments data file 'data_result_fifteen_subreddits_aggressive_language.csv'. This was the data used for the regression.
+No output file generated here.
 
-5. 'regressions1.R' - An R language program to run the regressions
+6. 'regressions1.R' - An R language program to run the regressions. 
 
 
 **Folders**
