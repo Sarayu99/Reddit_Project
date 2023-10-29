@@ -1,6 +1,6 @@
 # Reddit_Project
 
-This repository contains the code for the Structural Competition and Aggressive Behavior project. The files/folders in the repo are-
+This repository contains the code for the Structural Competition and Aggressive Behavior project. _Run the files in the order they are described_. The files/folders in the repo are-
 
 **Files**
 
