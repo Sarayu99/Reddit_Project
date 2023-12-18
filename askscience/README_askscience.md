@@ -63,13 +63,12 @@ Part 2:   add a new dummy column 'netSim_Dummy' which takes value of 1 for high 
 
   *OUTPUT FILES*:
 * 'data_askscience_regressions.csv': the file ready for regressions. This file contains comments for which there was a <br>
-
-*   parent comment author
-*   network similarity (this is averaged across user pairs)
-*   cultural similarity (this is averaged across user pairs)
-*   insult score
-*   threat score
-*   toxicity score
-*   time stamp (date_time, date, time, date_hour, data_hour_min)
-*   cultural similarity at the comment level 
-*   network similarity dummy
+    -   parent comment author
+    -   network similarity (this is averaged across user pairs)
+    -   cultural similarity (this is averaged across user pairs)
+    -   insult score
+    -   threat score
+    -   toxicity score
+    -   time stamp (date_time, date, time, date_hour, data_hour_min)
+    -   cultural similarity at the comment level 
+    -   network similarity dummy
