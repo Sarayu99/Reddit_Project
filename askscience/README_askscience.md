@@ -1,6 +1,16 @@
 This folder contains all the programs and output files for the 'askscience' subreddit. 
 
 Code:
+0. *Submissions_Processing_askscience.ipynb*<br>
+**Submission Processing** <br>
+This notebook processes the submission for the 'askscience' subreddit. It then also processes the comments of the 'askscience' subreddit and combines them into a single file.<br>
+**Part 1:** Read the askscience submissions.<br>
+**Part 2:** Read the askscience comments.<br>
+**Part 3:** Combine outputs from Part 1 and Part 2 and process the file, making it ready to perform node embeddings and word embeddings.<br>
+
+  *OUTPUT_FILES:*<br>
+  * 'data_merged_askscience.csv': the data containing both submissions and comments and processed, ready to be analyzed.<br>
+
 1. *Node_Embeddings_For_askscience_Subreddits.ipynb*: <br>
 **Creating the NetworkX graph for askscience subreddit, Generating the Node Embeddings, and Calculating the Network Similarity.** <br>
 This notebook considers the askscience subreddit and generates the NetworkX graphs. The interaction between user 'i' and user 'j' is captured during the following metric-
