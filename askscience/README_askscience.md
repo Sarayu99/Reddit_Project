@@ -11,6 +11,7 @@ This notebook processes the submission for the 'askscience' subreddit. It then a
   *OUTPUT_FILES:*<br>
   * 'data_merged_askscience.csv': the data containing both submissions and comments and processed, ready to be analyzed.<br>
 
+-------  
 1. *Node_Embeddings_For_askscience_Subreddits.ipynb*: <br>
 **Creating the NetworkX graph for askscience subreddit, Generating the Node Embeddings, and Calculating the Network Similarity.** <br>
 This notebook considers the askscience subreddit and generates the NetworkX graphs. The interaction between user 'i' and user 'j' is captured during the following metric-
