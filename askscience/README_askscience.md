@@ -1,4 +1,4 @@
-This folder contains all the programs and output files for the 'askscience' subreddit. 
+This folder contains all the programs and output files for the 'askscience' subreddit. I followed more or less a similar procedure for the 'science' subreddit.
 
 Code:<br>
 
